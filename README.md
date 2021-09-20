@@ -2,7 +2,9 @@
 </h1>
 
 <h3 align="left"><strong>
-I don't know what i'm doing here.</strong></h3>
+I don't know what i'm doing here :). I'm software developer and love python</strong></h3>
+
+<img src="https://user-images.githubusercontent.com/76973800/134009460-7299cdec-15f8-4c23-9145-5621045ddb32.jpeg" width="200px">
 
 ### **aboutMe.py**
 
@@ -11,7 +13,7 @@ I don't know what i'm doing here.</strong></h3>
 carlos = {
   otherAlias: "El piton",
   codesIn: ["Javascript", "Python", "Java",],
-  currentlylearning: ["Svelte", "Micro-frontends","AI"],
+  currentlylearning: ["Svelte", "Micro-frontends","golang"],
 }
 
 ```
